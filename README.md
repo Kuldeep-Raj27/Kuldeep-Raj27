@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kuldeep-Raj27
-- 👀 Exploring the world of innovation.
-- 💞️ I’m ready to collaborate on open-source projects.
+- 👀 Exploring the world of Computer Science.
+- 💞️ I like learning different techniques.
 - 📫 How to reach me - kuldeeppurohit024@gmail.com
 - 😄 
 - ⚡ 
